@@ -1,5 +1,4 @@
-# Multithreading
-Utilizing multithreading on a code that serially calculate the average angular distance between 50,000 stars in the Tycho Star Catalogue. This code, running serially, takes a significant amount of time to run.
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/HtxNW7lZ)
 # Star-Catalog-Assignment
 
 Description
@@ -33,3 +32,14 @@ the GitHub system time. You may push your code as often as you wish. Only your
 last submission will be graded. 
 
 There are coding resources and working code you may use in the course GitHub repositories.  You are free to use any of that code in your program if needed. You may use no other outside code.
+
+## Academic Integrity
+This assignment must be 100% your own work. No code may be copied from friends, 
+previous students, books, web pages, etc. All code submitted is automatically checked 
+against a database of previous semester’s graded assignments, current student’s code 
+and common web sources. By submitting your code on GitHub you are attesting that 
+you have neither given nor received unauthorized assistance on this work. Code that 
+is copied from an external source or used as inspiration, excluding the 
+course github, will result in a 0 for the assignment and referral to 
+the Office of Student Conduct.
+
